@@ -4,3 +4,5 @@ let newArr = arr.filter((element) => {
         return true;
     }
 })
+
+console.log(newArr)
